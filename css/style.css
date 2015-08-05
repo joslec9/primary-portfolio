@@ -26,6 +26,11 @@ img {
 	max-width: 100%;
 }
 
+.img-responsive {
+	max-height: 300px;
+	min-height: 350px;
+}
+
 .myButton {
 	-moz-box-shadow: 0px 10px 14px -7px #276873;
 	-webkit-box-shadow: 0px 10px 14px -7px #276873;
