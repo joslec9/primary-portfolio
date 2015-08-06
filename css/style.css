@@ -1,12 +1,11 @@
 body {
-	font-family: "Lato", sans-serif;
+	font-family: 300 1em "Lato", sans-serif;
 	color: #747704;
-	font-weight: 300;
 }
 
-li{
+li {
 	display: inline-block;
-	margin: 0px 3px;
+	margin: 3px;
 	font: 20px solid;
 }
 
@@ -50,61 +49,61 @@ img {
 }
 
 .title-logo {
-	margin: 20px 0 0 0;
+	margin: 20px;
 }
 
 .footer {
-	margin: 0 auto 0 auto;
-	padding: 5px 5px;
+	margin: 0 auto;
+	padding: 5px;
 	color: #000;
 	background-color: #f90;
 	max-width: 100%;
 }
 
 hr {
-	margin: 15px 15px;
+	margin: 15px;
 	border: 0;
 	border-top: 3px solid #747704;
 }
 
 .container {
-	margin: 0 auto 0 auto;
-	padding: 5px 5px;
+	margin: 0 auto;
+	padding: 5px;
 }
 
 @media (min-width: 768px) {
 	.container {
 		width: 750px;
-}
+ }
 
 }
 
 @media (min-width: 992px) {
 	.container {
 		width: 970px;
-}
+ }
 
 }
 
 @media (min-width: 1200px) {
 	.container {
 		width: 1170px;
-}
+ }
 
 }
 
 .container-fluid {
-	margin: 0 auto 0 auto;
-	padding: 5px 5px;
+	margin: 0 auto;
+	padding: 5px;
 }
 
 .row {
-	margin: 5px 5px;
+	margin: 5px;
 }
 
 .validator {
 	display: inline;
-	margin: 0px 3px;
+	margin: 3px;
 	text-align: center;
 }
 
